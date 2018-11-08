@@ -1,0 +1,10 @@
+{
+    "name": "admin/composer-lab-assets",
+    "authors": [
+        {
+            "name": "3a532043",
+            "email": "s3a532043@student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
